@@ -1,3 +1,4 @@
+package src;
 class C
 {
 	int i;

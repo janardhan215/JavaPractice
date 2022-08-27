@@ -1,3 +1,4 @@
+package src;
 class Var
 {
 	public int add(int ... o) //variable length args

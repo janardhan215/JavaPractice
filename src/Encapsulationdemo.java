@@ -1,3 +1,6 @@
+package src;
+
+
 class Student
 {
 	private int rollno;

@@ -1,3 +1,4 @@
+package src;
 /*Inner class
  *   Static class
  *   Member class
